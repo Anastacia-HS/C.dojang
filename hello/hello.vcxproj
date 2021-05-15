@@ -142,6 +142,7 @@
     <ClCompile Include="hello.c" />
     <ClCompile Include="hello_with_format.c" />
     <ClCompile Include="judge_hello.c" />
+    <ClCompile Include="judge_hello_with_format.c" />
     <ClCompile Include="practice_hello.c" />
     <ClCompile Include="practice_hello_with_format.c" />
   </ItemGroup>
