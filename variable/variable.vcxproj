@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="judge_variable.c" />
     <ClCompile Include="practice_variable.c" />
     <ClCompile Include="variable.c" />
     <ClCompile Include="variable_decl_init.c" />
